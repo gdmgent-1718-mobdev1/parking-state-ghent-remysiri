@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.parkings {
+	max-width: 98%;
+	padding: 10px;
+}
+
+.parkingCard {
+	max-width: 20%;
+	float: left;
+	padding: 5px;
+	margin: 2px;
+}
+
+.parkingAvailable {
+	font-size: 20px;
+}
+
+/*--------------------------------------OPEN*/
+
+
+.parking-available {
+	color: green;
+}
+
+.parking-unavailable {
+	color: red;
+}
+
+
+
+/*--------------------------------AVAILABLE*/
+
+.parking-green {
+	color: green;
+}
+
+.parking-orange {
+	color: orange;
+}
+
+.parking-red {
+	color: red;
+}
